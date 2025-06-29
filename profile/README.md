@@ -47,13 +47,3 @@ AI/ML       │ TensorFlow + PyTorch
 | **Consistency** | Variable performance | Systematic approach |
 | **Scalability** | Limited positions | Unlimited scaling |
 
-## 🚀 **Getting Started**
-
-### For Developers
-```bash
-# Clone our starter template
-git clone https://github.com/algotrade-automation/trading-bot-starter
-
-# Join our developer community
-# 👥 Discord: discord.gg/algotrade
-# 📧 Email: developers@algotrade-automation.com
