@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/AlgoTrade-automation/.github/discussions
+    about: Ask a general question or start a discussion
